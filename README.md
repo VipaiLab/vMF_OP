@@ -1,1 +1,2 @@
-# Towards-Calibrated-Hyper-Sphere-Representation-via-Distribution-Overlap-Coefficient-for-Long-tailed-Learning
+This is the implementation for long-tailed image classification task https://github.com/SiLangWHL/vMF-OP
+
